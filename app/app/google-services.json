@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449791236461",
+    "project_id": "mobile-security-project-662af",
+    "storage_bucket": "mobile-security-project-662af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449791236461:android:87ee7f1ece918fc1dca264",
+        "android_client_info": {
+          "package_name": "com.howest.mobilesecurity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYUKZa8ZV_hlUPRhW612U2zXgBna9ZGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
